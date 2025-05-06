@@ -1,0 +1,270 @@
+{
+    "website": "Aderange Global Mining",
+    "languages": ["English", "French", "Chinese"],
+    "pages": {
+      "home": {
+        "title": "Home | Aderange Global Mining",
+        "sections": [
+          {
+            "name": "hero",
+            "content": "Hero section with key messaging about Nigerian gemstone mining"
+          },
+          {
+            "name": "featured_gemstones",
+            "content": "Featured gemstones with high-quality images"
+          },
+          {
+            "name": "usp",
+            "content": "USP section (ethical mining, quality verification, global distribution)"
+          },
+          {
+            "name": "testimonials",
+            "content": "Featured testimonials from international clients"
+          },
+          {
+            "name": "cta",
+            "content": "Call-to-action sections for business inquiries"
+          }
+        ]
+      },
+      "about": {
+        "title": "About Us | Aderange Global Mining",
+        "sections": [
+          {
+            "name": "company_history",
+            "content": "Company history and mission"
+          },
+          {
+            "name": "mining_practices",
+            "content": "Mining practices and ethical standards"
+          },
+          {
+            "name": "industry_overview",
+            "content": "Nigerian mining industry overview"
+          },
+          {
+            "name": "team_profiles",
+            "content": "Team profiles of key mining experts and gemologists"
+          },
+          {
+            "name": "certifications",
+            "content": "Certifications and industry associations"
+          }
+        ]
+      },
+      "gemstones": {
+        "title": "Gemstones | Aderange Global Mining",
+        "subpages": [
+          {
+            "name": "amethyst",
+            "title": "Amethyst | Aderange Global Mining",
+            "sections": [
+              {
+                "name": "description",
+                "content": "Detailed information about Amethyst"
+              },
+              {
+                "name": "properties",
+                "content": "Physical and geological properties"
+              },
+              {
+                "name": "sources",
+                "content": "Nigerian mining locations"
+              },
+              {
+                "name": "uses",
+                "content": "Common applications and uses"
+              },
+              {
+                "name": "gallery",
+                "content": "High-quality images"
+              }
+            ]
+          },
+          {
+            "name": "morganite",
+            "title": "Morganite | Aderange Global Mining",
+            "sections": [
+              {
+                "name": "description",
+                "content": "Detailed information about Morganite"
+              },
+              {
+                "name": "properties",
+                "content": "Physical and geological properties"
+              },
+              {
+                "name": "sources",
+                "content": "Nigerian mining locations"
+              },
+              {
+                "name": "uses",
+                "content": "Common applications and uses"
+              },
+              {
+                "name": "gallery",
+                "content": "High-quality images"
+              }
+            ]
+          },
+          {
+            "name": "lithium_stone",
+            "title": "Lithium Stone | Aderange Global Mining",
+            "sections": [
+              {
+                "name": "description",
+                "content": "Detailed information about Lithium minerals"
+              },
+              {
+                "name": "properties",
+                "content": "Physical and geological properties"
+              },
+              {
+                "name": "sources",
+                "content": "Nigerian mining locations"
+              },
+              {
+                "name": "uses",
+                "content": "Common applications and uses"
+              },
+              {
+                "name": "gallery",
+                "content": "High-quality images"
+              }
+            ]
+          },
+          {
+            "name": "rose_quartz",
+            "title": "Rose Quartz | Aderange Global Mining",
+            "sections": [
+              {
+                "name": "description",
+                "content": "Detailed information about Rose Quartz"
+              },
+              {
+                "name": "properties",
+                "content": "Physical and geological properties"
+              },
+              {
+                "name": "sources",
+                "content": "Nigerian mining locations"
+              },
+              {
+                "name": "uses",
+                "content": "Common applications and uses"
+              },
+              {
+                "name": "gallery",
+                "content": "High-quality images"
+              }
+            ]
+          }
+        ]
+      },
+      "services": {
+        "title": "Services | Aderange Global Mining",
+        "sections": [
+          {
+            "name": "sourcing",
+            "content": "Gemstone sourcing and procurement"
+          },
+          {
+            "name": "custom_mining",
+            "content": "Custom mining projects"
+          },
+          {
+            "name": "export",
+            "content": "Export facilitation"
+          },
+          {
+            "name": "quality_assurance",
+            "content": "Quality assurance and certification"
+          }
+        ]
+      },
+      "gallery": {
+        "title": "Gallery | Aderange Global Mining",
+        "sections": [
+          {
+            "name": "mining_operations",
+            "content": "High-quality photos of mining operations"
+          },
+          {
+            "name": "gemstone_collection",
+            "content": "Showcasing various gemstones"
+          },
+          {
+            "name": "processing",
+            "content": "Gemstone processing images"
+          }
+        ]
+      },
+      "contact": {
+        "title": "Contact Us | Aderange Global Mining",
+        "sections": [
+          {
+            "name": "contact_form",
+            "content": "Contact form for inquiries"
+          },
+          {
+            "name": "office_locations",
+            "content": "Office locations (Nigeria and international)"
+          },
+          {
+            "name": "messaging",
+            "content": {
+              "whatsapp": "WhatsApp business contact",
+              "wechat": "WeChat contact"
+            }
+          },
+          {
+            "name": "map",
+            "content": "Map integration showing office locations"
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQ | Aderange Global Mining",
+        "sections": [
+          {
+            "name": "ordering",
+            "content": "Common questions about ordering, shipping, etc."
+          },
+          {
+            "name": "quality",
+            "content": "Information about Nigerian gemstone quality"
+          },
+          {
+            "name": "regulations",
+            "content": "Export regulations and compliance"
+          }
+        ]
+      }
+    },
+    "technical": {
+      "seo": {
+        "schema_markup": ["Organization", "Product", "LocalBusiness"],
+        "sitemap": "XML sitemap with priority settings",
+        "canonical_tags": "Proper canonical tags for all pages",
+        "hreflang": "Tags for international versions",
+        "mobile_friendly": "Responsive design",
+        "core_web_vitals": ["LCP", "FID", "CLS"],
+        "url_structure": "Proper URL structure with keywords",
+        "header_hierarchy": "Implement proper header hierarchy (H1-H6)"
+      },
+      "user_experience": {
+        "image_optimization": "Fast-loading images with proper compression",
+        "cta_buttons": "Clear call-to-action buttons throughout",
+        "messaging_integration": "WhatsApp integration for quick inquiries",
+        "navigation": {
+          "related_gemstones": "Easy navigation between related gemstone types",
+          "breadcrumbs": "Breadcrumb navigation structure"
+        }
+      },
+      "analytics": {
+        "google_analytics": "Set up Google Analytics",
+        "search_console": "Implement Google Search Console",
+        "conversion_tracking": "Request sample functionality"
+      }
+    }
+  }

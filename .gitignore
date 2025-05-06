@@ -1,0 +1,49 @@
+# Operating System Files
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE/Editor Files
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Large Media Files
+# Large image files (over 1MB)
+images/hero_1.jpg
+images/hero_2.jpg
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+
+# Log Files
+*.log
+logs/
+
+# Node modules if you add any JavaScript dependencies later
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+out/ 
